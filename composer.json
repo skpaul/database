@@ -1,0 +1,18 @@
+{
+    "name": "winbip/database",
+    "description": "PHP-MySQL library.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Winbip\\Database\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Saumitra Paul",
+            "email": "skpaul@gmail.com"
+        }
+    ],
+    "require": {}
+}
